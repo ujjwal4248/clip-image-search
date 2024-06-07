@@ -1,4 +1,4 @@
-# Image Search using CLIP
+# Image Search using CLIP  a purple and blue design of a melting face with a finger pointing up. 
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/kingyiusuen/clip-image-search/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
